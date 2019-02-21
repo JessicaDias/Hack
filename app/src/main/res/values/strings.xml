@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notification Tutorial 2016</string>
+    <string name="notificationtitle">Você sabia?</string>
+    <string name="notificationtext">BlaBlaBlaBla</string>
+</resources>
